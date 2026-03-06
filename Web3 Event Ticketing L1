@@ -1,0 +1,43 @@
+Web3 Event Ticketing L1
+Overview
+
+Web3 Event Ticketing L1 is designed to power decentralized ticketing platforms that eliminate fraud, scalping, and counterfeit tickets.
+
+Features
+
+NFT-based ticket issuance
+
+Anti-scalping mechanisms
+
+Event access verification
+
+Secondary market royalty rules
+
+Fraud-resistant ticket ownership
+
+Architecture
+Ticket Minting Engine
+
+Creates verifiable digital tickets.
+
+Ownership Registry
+
+Stores ticket ownership on-chain.
+
+Transfer Rules Module
+
+Controls resale conditions.
+
+Event Validation Layer
+
+Verifies entry permissions.
+
+Use Cases
+
+Concert ticketing
+
+Sports events
+
+Conferences and festivals
+
+Digital event access
