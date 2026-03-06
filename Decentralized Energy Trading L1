@@ -1,0 +1,43 @@
+Decentralized Energy Trading L1
+Overview
+
+Decentralized Energy Trading L1 is a blockchain infrastructure designed to facilitate peer-to-peer energy markets. It enables households, businesses, and renewable energy producers to trade electricity directly without centralized intermediaries.
+
+Features
+
+Peer-to-peer energy trading
+
+Tokenized energy credits
+
+Smart contract settlement
+
+Renewable energy verification
+
+Transparent pricing mechanisms
+
+Architecture
+Energy Registry
+
+Stores verified records of energy production and consumption.
+
+Trading Engine
+
+Matches buyers and sellers in decentralized markets.
+
+Settlement Layer
+
+Handles automated payments through smart contracts.
+
+Monitoring Layer
+
+Tracks energy generation and grid interactions.
+
+Use Cases
+
+Solar energy marketplaces
+
+Local microgrid trading
+
+Renewable energy credit markets
+
+Smart city energy infrastructure
