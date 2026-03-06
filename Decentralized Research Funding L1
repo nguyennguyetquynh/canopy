@@ -1,0 +1,43 @@
+. Decentralized Research Funding L1
+Overview
+
+Decentralized Research Funding L1 enables transparent funding and milestone-based payments for scientific research.
+
+Features
+
+On-chain grant funding
+
+Research milestone verification
+
+Transparent funding pools
+
+Peer review governance
+
+Research data validation
+
+Architecture
+Funding Pool Layer
+
+Manages grants and funding sources.
+
+Milestone Verification
+
+Tracks research progress.
+
+Governance Module
+
+Allows community voting for funding decisions.
+
+Publication Registry
+
+Records research outputs.
+
+Use Cases
+
+Academic research grants
+
+Open science initiatives
+
+Community-funded innovation
+
+Transparent research funding
