@@ -1,0 +1,33 @@
+Decentralized Workforce Identity L1
+Overview
+
+Decentralized Workforce Identity L1 provides verifiable identity and work history for global professionals.
+
+Features
+On-chain work history
+Identity verification
+Skill tracking
+Reputation scoring
+Credential validation
+Architecture
+Identity Registry
+
+Stores worker profiles.
+
+Verification Module
+
+Validates credentials.
+
+Reputation Engine
+
+Tracks performance.
+
+Integration Layer
+
+Connects with job platforms.
+
+Use Cases
+Freelance platforms
+Remote hiring systems
+Professional networks
+HR verification tools
