@@ -1,0 +1,33 @@
+Web3 Privacy-Preserving Identity L1
+Overview
+
+Web3 Privacy-Preserving Identity L1 enables users to control identity data while maintaining privacy.
+
+Features
+Zero-knowledge identity proofs
+Selective data disclosure
+Identity ownership control
+Secure authentication
+Privacy-first design
+Architecture
+Identity Registry
+
+Stores identity commitments.
+
+Privacy Layer
+
+Implements zero-knowledge proofs.
+
+Verification Engine
+
+Validates identity claims.
+
+Access Control Module
+
+Manages permissions.
+
+Use Cases
+Private authentication systems
+KYC alternatives
+Secure login systems
+Identity verification platforms
