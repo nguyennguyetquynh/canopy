@@ -1,0 +1,33 @@
+. Web3 Digital Asset Lending L1
+Overview
+
+Web3 Digital Asset Lending L1 enables borrowing and lending of tokenized assets through decentralized infrastructure.
+
+Features
+Collateralized lending
+On-chain loan agreements
+Automated liquidation
+Interest rate mechanisms
+Asset tokenization support
+Architecture
+Asset Registry
+
+Stores collateral and asset data.
+
+Lending Engine
+
+Manages loans and repayments.
+
+Risk Module
+
+Monitors collateral ratios.
+
+Liquidation Engine
+
+Handles default scenarios.
+
+Use Cases
+DeFi lending platforms
+NFT-backed loans
+Digital asset financing
+Liquidity access
