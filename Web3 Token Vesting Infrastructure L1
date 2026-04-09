@@ -1,0 +1,33 @@
+Web3 Token Vesting Infrastructure L1
+Overview
+
+Web3 Token Vesting Infrastructure L1 enables transparent and programmable token distribution schedules.
+
+Features
+Vesting schedules
+Cliff and linear release
+On-chain tracking
+Automated token release
+Custom vesting logic
+Architecture
+Vesting Registry
+
+Stores vesting contracts.
+
+Release Engine
+
+Manages token unlocks.
+
+Tracking Module
+
+Monitors distribution progress.
+
+Integration Layer
+
+Connects with token systems.
+
+Use Cases
+Team token vesting
+Investor lockups
+DAO token distribution
+Incentive programs
