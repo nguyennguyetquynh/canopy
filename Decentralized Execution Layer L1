@@ -1,0 +1,16 @@
+Decentralized Execution Layer L1
+Overview
+
+Handles execution of complex transactions across chains.
+
+Features
+Multi-step execution
+Cross-chain calls
+atomic transactions
+Architecture
+Execution Engine
+Routing Layer
+Verification Module
+Use Cases
+DeFi workflows
+automation
