@@ -1,0 +1,16 @@
+Cryptoeconomic Simulation L1
+Overview
+
+Simulates economic systems on-chain before deployment.
+
+Features
+simulation engine
+parameter testing
+scenario modeling
+Architecture
+Simulation Core
+Data Inputs
+Analysis Module
+Use Cases
+tokenomics design
+protocol testing
