@@ -1,0 +1,16 @@
+Shared Security Marketplace L1
+Overview
+
+Allows chains to rent security from validators.
+
+Features
+security leasing
+validator marketplace
+dynamic pricing
+Architecture
+Validator Pool
+Security Engine
+Payment Module
+Use Cases
+new chains
+appchains
