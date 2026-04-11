@@ -1,0 +1,16 @@
+Decentralized Reputation Consensus L1
+Overview
+
+Consensus system based on reputation rather than stake.
+
+Features
+Reputation-weighted voting
+Dynamic scoring
+Sybil resistance
+Architecture
+Reputation Engine
+Consensus Layer
+Identity Module
+Use Cases
+DAO governance
+social systems
