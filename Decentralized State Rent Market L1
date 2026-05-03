@@ -1,0 +1,18 @@
+Decentralized State Rent Market L1
+Overview
+
+Introduces a market for renting blockchain state storage.
+
+Features
+state pricing
+storage leasing
+cost optimization
+dynamic rent models
+Architecture
+State Registry
+Pricing Engine
+Rent Module
+Storage Layer
+Use Cases
+scalable storage
+cost-efficient dApps
