@@ -1,0 +1,18 @@
+Decentralized Execution Reputation L1
+Overview
+
+Tracks reliability of execution across protocols and agents.
+
+Features
+execution scoring
+reliability tracking
+trust-based routing
+performance metrics
+Architecture
+Execution Registry
+Reputation Engine
+Scoring Layer
+Analytics Module
+Use Cases
+solver networks
+DeFi routing
