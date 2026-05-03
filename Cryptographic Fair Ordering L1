@@ -1,0 +1,18 @@
+Cryptographic Fair Ordering L1
+Overview
+
+Ensures fair transaction ordering using cryptographic techniques.
+
+Features
+fair ordering
+MEV resistance
+encrypted mempool
+ordering proofs
+Architecture
+Ordering Engine
+Encryption Layer
+Proof Module
+Consensus Layer
+Use Cases
+DEX
+auctions
