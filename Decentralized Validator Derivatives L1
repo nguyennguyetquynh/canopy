@@ -1,0 +1,18 @@
+Decentralized Validator Derivatives L1
+Overview
+
+Enables trading of validator performance and yield as derivatives.
+
+Features
+validator tokenization
+yield derivatives
+performance tracking
+secondary markets
+Architecture
+Validator Registry
+Derivatives Engine
+Pricing Layer
+Market Module
+Use Cases
+staking markets
+yield trading
