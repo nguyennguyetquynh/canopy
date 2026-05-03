@@ -1,0 +1,19 @@
+Decentralized Intent Simulation L1
+Overview
+
+Simulates multiple execution paths for user intents before actual settlement.
+
+Features
+multi-path simulation
+outcome prediction
+cost estimation
+execution optimization
+Architecture
+Simulation Engine
+Intent Pool
+Prediction Layer
+Execution Selector
+Use Cases
+DeFi routing
+trading optimization
+UX abstraction
