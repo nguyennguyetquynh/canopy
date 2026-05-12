@@ -1,0 +1,11 @@
+Adaptive Blockspace Allocation L1
+Overview
+
+Allocates blockspace dynamically based on demand.
+
+Features
+blockspace pricing
+allocation optimization
+congestion handling
+Use Cases
+scaling
