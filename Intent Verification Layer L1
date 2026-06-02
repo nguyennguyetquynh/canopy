@@ -1,0 +1,12 @@
+Intent Verification Layer L1
+Overview
+
+Verifies whether user intents were fulfilled correctly.
+
+Features
+Intent validation
+Execution auditing
+Solver scoring
+Trust metrics
+Use Cases
+Intent-based systems
