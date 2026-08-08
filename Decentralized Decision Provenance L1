@@ -1,0 +1,7 @@
+. Decentralized Decision Provenance L1
+
+Ý tưởng: Ghi lại nguồn gốc và quá trình hình thành một quyết định, thay vì chỉ lưu kết quả cuối cùng.
+
+Core: Decision lineage, evidence graphs, reasoning provenance, audit trails.
+
+Use cases: AI systems, DAOs, enterprise workflows, automated governance.
