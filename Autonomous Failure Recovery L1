@@ -1,0 +1,7 @@
+Autonomous Failure Recovery L1
+
+Ý tưởng: Hạ tầng chuyên phát hiện và tự động phục hồi sau các failure của decentralized systems.
+
+Core: Failure detection, recovery strategies, state restoration, automated failover.
+
+Use cases: DeFi, infrastructure, decentralized applications.
