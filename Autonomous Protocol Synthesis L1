@@ -1,0 +1,7 @@
+. Autonomous Protocol Synthesis L1
+
+Ý tưởng: Một Layer 1 nơi các protocol primitives có thể được kết hợp để tạo ra protocol mới.
+
+Core: Protocol modules, composable primitives, automated synthesis, formal verification.
+
+Use cases: DeFi experimentation, appchains, experimental infrastructure.
