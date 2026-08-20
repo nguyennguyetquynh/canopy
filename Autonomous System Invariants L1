@@ -1,0 +1,7 @@
+Autonomous System Invariants L1
+
+Monitor critical system invariants and detect when they are violated.
+
+Core: invariant definitions, continuous verification, violation detection, recovery triggers.
+
+Use cases: DeFi safety, rollups, distributed infrastructure.
