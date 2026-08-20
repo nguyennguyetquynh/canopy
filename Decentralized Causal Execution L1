@@ -1,0 +1,5 @@
+Decentralized Causal Execution L1
+
+A blockchain combining causal graphs with transaction execution, enabling the identification of dependency relationships between actions before the state is updated.
+
+Core components: causal dependencies, execution graphs, dependency proofs, deterministic ordering.
