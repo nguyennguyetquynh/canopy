@@ -1,0 +1,5 @@
+Decentralized Execution Scheduling L1
+
+A blockchain dedicated to coordinating when and in what order executions should occur.
+
+Core: execution queues, priority markets, temporal ordering, scheduling proofs.
