@@ -1,0 +1,5 @@
+Decentralized Computational Provenance L1
+
+Records the origin of a computation result: which input, algorithm, execution, and transformation produced the result.
+
+Core: computation lineage, execution provenance, reproducibility proofs, result verification.
