@@ -1,0 +1,5 @@
+Decentralized State Recovery L1
+
+Focus on the ability to restore blockchain/application state after corruption or unexpected execution.
+
+Core: recovery checkpoints, state reconstruction, rollback proofs, recovery consensus.
