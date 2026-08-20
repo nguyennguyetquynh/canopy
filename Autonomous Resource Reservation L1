@@ -1,0 +1,5 @@
+Autonomous Resource Reservation L1
+
+Cho phép reserve trước tài nguyên blockchain hoặc infrastructure trong một khoảng thời gian xác định.
+
+Core: capacity reservation, reservation markets, guaranteed availability, settlement.
