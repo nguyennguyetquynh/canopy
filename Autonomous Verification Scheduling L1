@@ -1,0 +1,5 @@
+Autonomous Verification Scheduling L1
+
+Optimizes the timing, personnel, and methods for verifying computations or state transitions.
+
+Core components: verification queues, proof prioritization, verifier allocation, and verification markets.
